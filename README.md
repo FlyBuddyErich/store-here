@@ -6,6 +6,13 @@ Store Here - is awesome app that allows you to store your files and share them w
 
 Store Here - это потрясающее приложение, которое позволяет вам хранить ваши файлы и делиться ими с другими людьми. Зарегистрируйтесь и подтвердите свой аккаунт, используя код, отправленный на вашу электронную почту, чтобы начать пользоваться сервисом
 
+⚙️ That app was build with: 
+* React
+* Next.js
+* Appwrite
+* TailwindCSS
+* ShadCN
+* TypeScript
 
 ## Features
 
@@ -20,7 +27,17 @@ Store Here - это потрясающее приложение, которое 
 - 2 ГБ свободного места
 
 
+## Demo
+
+![image](https://github.com/user-attachments/assets/d9d45c96-0aea-45c5-9aac-f4755aa3bdcf)
+
+https://store-here-flybuddyerichs-projects.vercel.app/sign-in
+
+
 ## Authors
 
 - [@flybuddyerich](https://github.com/FlyBuddyErich)
+
+
+
 
